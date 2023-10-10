@@ -1,11 +1,16 @@
 _repo: Wild-beasts-b-A-study-of-the-characters-and-habits-of-the-elephant-lion-leopard-panther-jagua__71639
 _version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 71639-h/images/cover.jpg
 creator:
   author:
     agent_name: Porter, John Hampden
     gutenberg_agent_id: '56310'
     url: http://www.gutenberg.org/2009/agents/56310
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/71639#Wild-beasts-b-A-study-of-the-characters-and-habits-of-the-elephant-lion-leopard-panther-jagua_
 gutenberg_issued: '2023-09-14'
 identifiers:
   gutenberg: '71639'
